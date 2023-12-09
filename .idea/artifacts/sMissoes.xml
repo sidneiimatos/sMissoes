@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sMissoes">
+    <output-path>$PROJECT_DIR$/../../New folder/plugins</output-path>
+    <root id="archive" name="sMissoes.jar">
+      <element id="module-output" name="sMissoes" />
+    </root>
+  </artifact>
+</component>
